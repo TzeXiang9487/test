@@ -1,0 +1,6 @@
+[05-Nov-2025 15:13:31 Europe/Berlin] SQL: INSERT INTO bookings (
+        user_email, movie_name, location, time, selected_date, 
+        seats_list, seats_count, seats_price, food_items, food_total, 
+        grand_total, cardholder_name, card_number_masked
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+[05-Nov-2025 15:13:31 Europe/Berlin] Values: userEmail=xiang@gmail.com, movieName=Demon Slayer: Mugen Train, location=City Plaza Alor Setar, time=10:00 PM, selectedDate=WED, 05/11, seatsCount=2, seatsPrice=30, foodTotal=10, grandTotal=40

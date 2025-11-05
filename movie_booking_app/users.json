@@ -1,0 +1,12 @@
+[
+    {
+        "email": "xiang@gmail.com",
+        "passwordHash": "$2y$10$mFx7Gby3nJ0uR1oCKLqwjOIjgs3iJcSy5X9akKxLiL24R2RqPfCQW",
+        "categories": [
+            "Animation",
+            "Horror",
+            "Western"
+        ],
+        "createdAt": "2025-11-05T15:08:08+01:00"
+    }
+]
